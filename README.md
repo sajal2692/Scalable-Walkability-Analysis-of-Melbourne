@@ -38,4 +38,6 @@ The project includes the following notebooks (data manipulation and analyses):
 
 The code, including its result, relevant to a particular topic is described in its notebook. It is recommended to view the notebooks in the above order to avoid missing out on code explainations.
 
+--- 
+
 Note: Choropleth maps are available in the choropleth-map directory as html files, and should be downloaded to be viewed (as they are not inherently rendered in an iPython notebook). 
