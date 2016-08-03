@@ -1,4 +1,4 @@
-# Scalable-Walkability-Analysis-of-Melbourne
+# Scalable Walkability Analysis of Melbourne
 Repository for my final semester computing project at the University of Melbourne, under the supervision of Dr. Richard Sinnott. 
 
 ## Purpose
